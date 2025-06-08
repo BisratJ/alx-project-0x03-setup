@@ -62,7 +62,7 @@ alx-project-0x03/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sahe20/alx-project-0x03-setup.git
+   git clone https://github.com/BisratJ/alx-project-0x03-setup.git
    cd alx-project-0x03
 
 npm install
