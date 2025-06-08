@@ -102,9 +102,9 @@ Open a pull request
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 👨🏾‍💻 Author
-Musa Sahe Jackiteh
-Fellow @ ALX ProDev | Founder of a software startup in Liberia
-LinkedIn | GitHub
+Bisrt Gizaw
+Fellow @ ALX ProDev 
+
 
 ## 📌 Note
 This is a milestone project for educational purposes as part of the ALX Software Engineering Program.
